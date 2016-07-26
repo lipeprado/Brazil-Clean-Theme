@@ -1,0 +1,14 @@
+{
+    "name": "Clean Brazil",
+    "title": "Clean Brazil",
+    "description": "Clean syntax theme",
+    "homepage": "https://github.com/lipeprado/Brazil-Clean-Theme.git",
+    "version": "clean_v1",
+    "author": "Lipe Prado",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["Clean, syntax, them, Brazil, 2016"]
+}
