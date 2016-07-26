@@ -20,9 +20,9 @@
 
     Html
 
-    ![Html Version](https://github.com/lipeprado/Brazil-Clean-Theme/blob/master/Html.jpg)
+    ![Html Version](https://raw.githubusercontent.com/lipeprado/Brazil-Clean-Theme/master/Html.jpg)
 
 
     Css
     
-    ![Css Version](https://github.com/lipeprado/Brazil-Clean-Theme/blob/master/css.jpg)
+    ![Css Version](https://raw.githubusercontent.com/lipeprado/Brazil-Clean-Theme/master/css.jpg)
