@@ -20,8 +20,4 @@
 
     
     
-     [https://raw.githubusercontent.com/lipeprado/Brazil-Clean-Theme/master/Html.jpg](Versão HTML)
-    
-   
-
-     [https://github.com/lipeprado/Brazil-Clean-Theme/blob/master/css.jpg](Versão CSS)
+     
