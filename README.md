@@ -1,7 +1,7 @@
-Flash Ruby Dark  Theme for Brackets
+Clean Brazil Dark Theme
 =====================================
 
-A premium Dark Theme for Brackets. Inspired by Belo horizontes night Clubs A Brackets original.
+A Dark Theme for Brackets. Inspired by Brazil 2016 A Brackets original.
 
 
 <img src="https://cloud.githubusercontent.com/assets/17788476/17230577/4c835226-54f3-11e6-9660-ba07c1d1e453.png" width="90%"></img>
